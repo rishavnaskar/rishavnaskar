@@ -3,7 +3,7 @@
 ### I'm an app developer hoping to serve the community
 
 - 🌱 I’m currently learning everything I can 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I love to meet new people and share knowledge with them
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I have been a drummer for 8+ years
 
