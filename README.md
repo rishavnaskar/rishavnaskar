@@ -1,16 +1,15 @@
-<p>
-  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif"> 
-</p>
+### Hi there, this is Rishav 😄,
 
-### Hi 😄,
+### I'm an app developer hoping to serve the community
 
-### I'm just a Mobile Full-Stack developer currently part of [DSC-VIT](https://github.com/GDGVIT) 📈
-
-<br>
+- 🌱 I’m currently learning everything I can 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I have been a drummer for 8+ years
 
 ### My Tech Stack
 
-<img src="https://img.shields.io/badge/-ANDROID-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-KOTLIN-red?style=for-the-badge"> <img src="https://img.shields.io/badge/-MVVM-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/-TENSORFLOWLITE-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-JAVA-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-PYTHON-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/-FIREBASE-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-FLUTTER-brightgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/-GO-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-JAVASCRIPT-red?style=for-the-badge">  <img src="https://img.shields.io/badge/-POSTGRESQL-green?style=for-the-badge"> <img src="https://img.shields.io/badge/-MONGODB-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/-HTML-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/-REACT-orange?style=for-the-badge">
+<img src="https://img.icons8.com/color/48/000000/flutter.png"/> <img src="https://img.icons8.com/color/48/000000/dart.png"/>
 
 ### What I want to learn
 
