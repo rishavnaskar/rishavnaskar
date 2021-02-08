@@ -30,6 +30,14 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavnaskar&show_icons=true&theme=light&line_height=27" alt="Rishav's github stats"/>
 </a>
 
+<br>
+<br>
+<p>
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif"> 
+</p>
+
+<br>
+<br>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
