@@ -23,12 +23,10 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rishav-naskar-9621101a6/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/the_born_drummer/)
 
-### Connect with me!
-
-<a href="https://github.com/iampawan">
+<a href="https://github.com/rishavnaskar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavnaskar&theme=light&hide_langs_below=1" />
 </a>
-<a href="https://github.com/iampawan">
+<a href="https://github.com/rishavnaskar">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavnaskar&show_icons=true&theme=light&line_height=27" alt="Rishav's github stats"/>
 </a>
 
