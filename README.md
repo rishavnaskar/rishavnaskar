@@ -4,8 +4,8 @@
 
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I love to meet new people and share knowledge with them
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I have been a drummer for 8+ years
+- 🥅 Goals: Contribute more towards improvement of the planet
+- ⚡ Fun fact: I have been a drummer for 9+ years
 
 ---
 
